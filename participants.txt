@@ -1,0 +1,49 @@
+1,1,im26c4UM,Universiti Malaya,Khooi Xin Zhe,khooi8913@gmail.com
+2,1,im26c4UM,Universiti Malaya,Wee Chee San,leonweecs@gmail.com
+3,1,im26c4UM,Universiti Malaya,Teoh Suh Haw,suh.haw03@gmail.com
+4,1,im26c4UM,Universiti Malaya,Ng Kam Woh,kamwoh@gmail.com
+5,1,im26c4UM,Universiti Malaya,Khoo Bao Xuan,xuan9616@hotmail.com
+6,2,Miscellaneous,Sunway University,Stephen Thomas Homer,16065096@imail.sunway.edu.my
+7,2,Miscellaneous,Monash University,Gwinyai Chakonda,tgcha1@student.monash.edu
+8,3,Coconut,Sunway University,Jordan Tan,jordanthemail@gmail.com
+9,3,Coconut,Sunway University,Denis Lee Song Yun,denis1097@hotmail.com
+10,3,Coconut,Sunway University,Sio Joo Xing,15073448@imail.sunway.edu.my
+11,3,Coconut,Sunway University,Goh Jun Ye,15073588@imail.sunway.edu.my
+12,3,Coconut,Sunway University,Chia Wei Ying,wein9298@hotmail.com
+13,4,The Transhumans,Sunway University,Raj Kiran Kaur Charan Jeet Singh,rajkirankaur28@gmail.com
+14,4,The Transhumans,Sunway University,Ching Su Zhen,suzhensz97@gmail.com
+15,4,The Transhumans,Sunway University,Chan Xing Yi,xingyi9712@gmail.com
+16,4,The Transhumans,Sunway University,Wong Jia Hui,jiahui961023@gmail.com
+17,4,The Transhumans,Sunway University,Wong Hong Wei,dwhongwei@gmail.com
+18,5,Monsieur Wick,Sunway University,Teoh Zhan Tao,adamtao1997@gmail.com
+19,5,Monsieur Wick,Sunway University,Tan Haolun,haolun0905@gmail.com
+20,5,Monsieur Wick,Sunway University,Lim Shi Hern,shihern7@gmail.com
+21,6,Underground,Universiti Malaya,Muhammad Mujibur Rahman Mohammad Nizar,Muhdiqmal1997@gmail.com
+22,6,Underground,Universiti Malaya,Wan Muhammad Danial bin seniwan,wmdanial12@gmail.com
+23,6,Underground,Universiti Malaya, Arif Faisal bin Ahmad Jais,ariffasial75@gmail.com
+24,6,Underground,Universiti Malaya,Normaisarah binti ab majid,maisaramajid@gmail.com
+25,6,Underground,Universiti Malaya,Alia Nadhirah binti Roslan,aleroslan@siswa.um.edu.my
+26,7,Team M,Sunway University,Ong Khai Liang,khailiang1997@hotmail.com
+27,7,Team M,Sunway University,Tee Min Wea,minwea@hotmail.com
+28,7,Team M,Sunway University,Yeoh Hui Yin,huiyinyeoh@hotmail.com
+29,8,LuckyStar,Sunway University,Chen Kah Weng,12084026@imail.sunway.edu.my
+30,8,LuckyStar,Sunway University,Hoo Chun Hoong,13021449@imail.sunway.edu.my
+31,8,LuckyStar,Sunway University,Chaw Zhi Yi,joycechaw98@gmail.com
+32,8,LuckyStar,Sunway University,Teong Cai Zhi,tcz5608@gmail.com
+33,8,LuckyStar,Sunway University,Tan Jen Ping,13072129@imail.sunway.edu.my 
+34,9,Uncertified Ethical Hackers,Sunway University,Tan Pee Aun,peeaun99@gmail.com
+35,9,Uncertified Ethical Hackers,Sunway University,Liew Shan Khai,liewsk1999@gmail.com
+36,9,Uncertified Ethical Hackers,Sunway University,Raghav Menon A/L Vijayakumar,raghavm24@gmail.com
+37,9,Uncertified Ethical Hackers,Sunway University,Chua Yu Yan,yuyanchua310@gmail.com
+38,9,Uncertified Ethical Hackers,Sunway University,Charlton Phua Xia Zhen,Novalad3@hotmail.com
+39,10,FriendsUCanKeep,Sunway University,Koh Jen Yang,jenyang.koh@gmail.com
+40,10,FriendsUCanKeep,Sunway University,Foo Ky-Li,ky.lifoo@gmail.com
+41,10,FriendsUCanKeep,Sunway University,Kuan Wei Kang,kuanntommyy@gmail.com
+42,10,FriendsUCanKeep,Sunway University,Brian Anthony Boudeville,brianboudeville@gmail.com
+43,10,FriendsUCanKeep,Sunway University,Samuel John Omamalin,samuelomamalin@gmail.com
+44,11,Cha-Kam-Ba,University Malaysia of Computer Science and Engineering,Muhammad Imran bin Mohd Azmi,lucienzera26@gmail.com
+45,11,Cha-Kam-Ba,University Malaysia of Computer Science and Engineering,Lim Zhen Shen,jasonlimm97@gmail.com
+46,11,Cha-Kam-Ba,University Malaysia of Computer Science and Engineering,Brandon Oh Wai Tien,brandon4finnix@gmail.com
+47,11,Cha-Kam-Ba,University Malaysia of Computer Science and Engineering,Ng Kwang Meng,kwangmengkenny@icloud.com
+48,12,Lost Space,Sunway University,Lee Wei Fan,weifan2647@gmail.com
+49,12,Lost Space,Universiti Tunku Abdul Rahman Rahman,Hew Teng Wei,sonyahew@gmail.com
