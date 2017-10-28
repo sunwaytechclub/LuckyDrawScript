@@ -2,11 +2,11 @@
 
 A script written for lucky draw during cityHack 2017
 
-![Screenshot](https://github.com/sunwaytechclub/LuckyDrawScript/Screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/sunwaytechclub/LuckyDrawScript/master/Screenshot1.png)
 
-![Screenshot](https://github.com/sunwaytechclub/LuckyDrawScript/Screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/sunwaytechclub/LuckyDrawScript/master/Screenshot2.png)
 
-![Screenshot](https://github.com/sunwaytechclub/LuckyDrawScript/Screenshot3.png)
+![Screenshot](https://raw.githubusercontent.com/sunwaytechclub/LuckyDrawScript/master/Screenshot3.png)
 
 ## Tools needed
 
