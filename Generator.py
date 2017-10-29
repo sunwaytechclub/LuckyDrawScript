@@ -1,4 +1,5 @@
 import random
+import datetime
 
 file = open("participants.txt", "r")
 participants = file.readlines()
@@ -14,6 +15,8 @@ for x in participants:
 	teamName.append(temp[2])
 	name.append(temp[4])
 
+random.seed(datetime.datetime.now().time().microsecond)
+
 luckyStar = random.randrange(0, 49)
 
 try:
@@ -22,7 +25,7 @@ except FileNotFoundError:
 	file.close()
 else:
 	lines = file.readlines()
-	gen = lines[0].strip()
+	gen = int(lines[0].strip())
 	file.close()
 
 	while luckyStar == gen:
