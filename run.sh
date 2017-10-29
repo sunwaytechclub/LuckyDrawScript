@@ -55,3 +55,15 @@ sleep 2
 clear
 figlet $(cat luckyStar.txt)! | lolcat
 read -n1 -r key
+
+clear
+figlet Not selected? | lolcat
+sleep 3
+
+clear 
+figlet Coupon Code! | lolcat
+read -n1 -r key
+
+clear 
+figlet 97tech | lolcat
+read -n1 -r key
